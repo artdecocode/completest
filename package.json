@@ -1,6 +1,6 @@
 {
   "name": "completest",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "IDE autocompletion testing for perfect DevX.",
   "main": "build",
   "scripts": {
